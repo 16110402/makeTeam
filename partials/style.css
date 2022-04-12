@@ -1,0 +1,27 @@
+    .centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.con{
+  font-size: 35px;
+  font-weight: bold;
+}
+.con1{
+  font-size: 45px;
+  font-weight: bold;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.cont{
+color: white;
+list-style:none;
+}
+#up-car{
+  width: 35rem;
+  height: 60rem;
+}
+#up-car1{
+  margin-left: 25rem;
+}
